@@ -46,13 +46,13 @@ public partial class MainWindow : Window
         string title = TitleTextBox.Text;
         string subject = SubjectTextBox.Text;
 
-        TaskLevel priority = TaskLevel.Medium;
+        TaskLevel Level = TaskLevel.Medium;
 
-        if (PriorityComboBox.SelectedItem is ComboBoxItem item)
+        if (LevelComboBox.SelectedItem is ComboBoxItem item)
         {
             Enum.TryParse(
                 item.Content?.ToString(),
-                out priority);
+                out Level);
         }
 
         try
@@ -61,12 +61,12 @@ public partial class MainWindow : Window
                 title,
                 subject,
                 DueDatePicker.SelectedDate,
-                priority);
+                Level);
 
             TitleTextBox.Clear();
             SubjectTextBox.Clear();
             DueDatePicker.SelectedDate = null;
-            PriorityComboBox.SelectedIndex = 1;
+            LevelComboBox.SelectedIndex = 1;
 
             _currentFilter = TaskFilter.All;
             FilterComboBox.SelectedIndex = 0;

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\bin\Debug\net8.0\StudyTaskTracker.Core.deps.json
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\bin\Debug\net8.0\StudyTaskTracker.Core.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\bin\Debug\net8.0\StudyTaskTracker.Core.pdb
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTaskTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTaskTracker.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTaskTracker.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTaskTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTaskTracker.Core.sourcelink.json
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTaskTracker.Core.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\refint\StudyTaskTracker.Core.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTaskTracker.Core.pdb
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\ref\StudyTaskTracker.Core.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Core\obj\Debug\net8.0\StudyTas.95C52306.Up2Date
