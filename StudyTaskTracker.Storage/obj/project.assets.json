@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "StudyTaskTracker.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/StudyTaskTracker.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudyTaskTracker.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudyTaskTracker.Core/1.0.0": {
+      "type": "project",
+      "path": "../StudyTaskTracker.Core/StudyTaskTracker.Core.csproj",
+      "msbuildProject": "../StudyTaskTracker.Core/StudyTaskTracker.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "StudyTaskTracker.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/doangiahan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/doangiahan/Projects/StudyTaskTracker/StudyTaskTracker.Storage/StudyTaskTracker.Storage.csproj",
+      "projectName": "StudyTaskTracker.Storage",
+      "projectPath": "/Users/doangiahan/Projects/StudyTaskTracker/StudyTaskTracker.Storage/StudyTaskTracker.Storage.csproj",
+      "packagesPath": "/Users/doangiahan/.nuget/packages/",
+      "outputPath": "/Users/doangiahan/Projects/StudyTaskTracker/StudyTaskTracker.Storage/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/doangiahan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/doangiahan/Projects/StudyTaskTracker/StudyTaskTracker.Core/StudyTaskTracker.Core.csproj": {
+              "projectPath": "/Users/doangiahan/Projects/StudyTaskTracker/StudyTaskTracker.Core/StudyTaskTracker.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
