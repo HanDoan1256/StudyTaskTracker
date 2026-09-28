@@ -29,7 +29,7 @@ public partial class MainWindow : Window
             dataDirectory,
             "tasks.json");
 
-        var repository = new JsonTaskRepository(dataFile);
+        var repository = new JsonTaskRepo(dataFile);
 
         _taskManager = new TaskManager(repository);
 
@@ -46,7 +46,7 @@ public partial class MainWindow : Window
         string title = TitleTextBox.Text;
         string subject = SubjectTextBox.Text;
 
-        TaskPriority priority = TaskPriority.Medium;
+        TaskLevel priority = TaskLevel.Medium;
 
         if (PriorityComboBox.SelectedItem is ComboBoxItem item)
         {

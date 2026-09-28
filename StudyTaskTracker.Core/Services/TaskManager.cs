@@ -35,7 +35,7 @@ public class TaskManager
         string title,
         string subject,
         DateTime? dueDate,
-        TaskPriority priority)
+        TaskLevel level)
     {
         if (string.IsNullOrWhiteSpace(title))
         {
@@ -49,7 +49,7 @@ public class TaskManager
             Title = title.Trim(),
             Subject = subject.Trim(),
             DueDate = dueDate,
-            Priority = priority,
+            Level = level,
             IsCompleted = false
         };
 

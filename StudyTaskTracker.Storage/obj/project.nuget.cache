@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "slQYsheAemA=",
+  "dgSpecHash": "Oh+j7frqPfs=",
   "success": true,
   "projectFilePath": "/Users/doangiahan/Projects/StudyTaskTracker/StudyTaskTracker.Storage/StudyTaskTracker.Storage.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/doangiahan/.nuget/packages/microsoft.netcore.app.ref/8.0.16/microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "/Users/doangiahan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

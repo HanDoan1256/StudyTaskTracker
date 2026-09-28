@@ -10,7 +10,7 @@ public class TaskItem
 
     public DateTime? DueDate { get; set; }
 
-    public TaskPriority Priority { get; set; } = TaskPriority.Medium;
+    public TaskLevel Priority { get; set; } = TaskLevel.Medium;
 
     public bool IsCompleted { get; set; }
 
