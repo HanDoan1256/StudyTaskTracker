@@ -1,0 +1,16 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package
+		Name="StudyTasksTracker"
+		Manufacturer="Doan Gia Han SWS01190"
+		Version="1.0.0"
+		UpgradeCode="7C8B2F31-9A64-4E17-BD52-6D4F2A9C8130">
+
+		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+
+		<Feature Id="Main">
+			<ComponentGroupRef Id="ExampleComponents" />
+		</Feature>
+	</Package>
+</Wix>
+
+

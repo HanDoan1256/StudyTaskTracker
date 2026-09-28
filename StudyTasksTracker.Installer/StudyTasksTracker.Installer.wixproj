@@ -1,0 +1,5 @@
+﻿<Project Sdk="WixToolset.Sdk/5.0.2">
+  <ItemGroup>
+    <ProjectReference Include="..\StudyTaskTracker.App\StudyTaskTracker.App.csproj" />
+  </ItemGroup>
+</Project>

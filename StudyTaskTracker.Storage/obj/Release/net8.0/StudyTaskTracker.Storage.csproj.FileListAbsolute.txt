@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\bin\Release\net8.0\StudyTaskTracker.Storage.deps.json
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\bin\Release\net8.0\StudyTaskTracker.Storage.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\bin\Release\net8.0\StudyTaskTracker.Storage.pdb
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\bin\Release\net8.0\StudyTaskTracker.Core.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\bin\Release\net8.0\StudyTaskTracker.Core.pdb
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.sourcelink.json
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTas.AE7879BB.Up2Date
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\refint\StudyTaskTracker.Storage.dll
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\StudyTaskTracker.Storage.pdb
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTaskTracker.Storage\obj\Release\net8.0\ref\StudyTaskTracker.Storage.dll

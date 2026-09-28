@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyTaskTracker.App\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyTaskTracker.App\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Storage\\JsonTaskRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyTaskTracker.Storage\\JsonTaskRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\Services\\TaskManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyTaskTracker.Core\\Services\\TaskManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\StudyTaskTracker.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyTaskTracker.Core\\StudyTaskTracker.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyTaskTracker.Core\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\global.json||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:global.json||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\StudyTaskTracker.App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyTaskTracker.App\\StudyTaskTracker.App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,111 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "StudyTaskTracker.App\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\MainWindow.xaml.cs",
-              "RelativeToolTip": "StudyTaskTracker.App\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAApwEIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T06:31:06.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "StudyTaskTracker.App\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\MainWindow.xaml",
-              "RelativeToolTip": "StudyTaskTracker.App\\MainWindow.xaml",
-              "ViewState": "AgIAAPEAAAAAAAAAAADgv/kAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-28T06:27:32.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JsonTaskRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Storage\\JsonTaskRepo.cs",
-              "RelativeDocumentMoniker": "StudyTaskTracker.Storage\\JsonTaskRepo.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Storage\\JsonTaskRepo.cs",
-              "RelativeToolTip": "StudyTaskTracker.Storage\\JsonTaskRepo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T06:26:12.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\Services\\TaskManager.cs",
-              "RelativeDocumentMoniker": "StudyTaskTracker.Core\\Services\\TaskManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\Services\\TaskManager.cs",
-              "RelativeToolTip": "StudyTaskTracker.Core\\Services\\TaskManager.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T06:12:49.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudyTaskTracker.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\StudyTaskTracker.Core.csproj",
-              "RelativeDocumentMoniker": "StudyTaskTracker.Core\\StudyTaskTracker.Core.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\StudyTaskTracker.Core.csproj",
-              "RelativeToolTip": "StudyTaskTracker.Core\\StudyTaskTracker.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-28T06:12:25.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "StudyTaskTracker.Core\\Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.Core\\Models\\TaskItem.cs",
-              "RelativeToolTip": "StudyTaskTracker.Core\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T06:12:00.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "global.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\global.json",
-              "RelativeDocumentMoniker": "global.json",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\global.json",
-              "RelativeToolTip": "global.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-28T06:07:11.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudyTaskTracker.App.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\StudyTaskTracker.App.csproj",
-              "RelativeDocumentMoniker": "StudyTaskTracker.App\\StudyTaskTracker.App.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTaskTracker.App\\StudyTaskTracker.App.csproj",
-              "RelativeToolTip": "StudyTaskTracker.App\\StudyTaskTracker.App.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-28T05:46:47.053Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

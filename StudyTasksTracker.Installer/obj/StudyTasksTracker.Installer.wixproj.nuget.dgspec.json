@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTasksTracker.Installer\\StudyTasksTracker.Installer.wixproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTasksTracker.Installer\\StudyTasksTracker.Installer.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTasksTracker.Installer\\StudyTasksTracker.Installer.wixproj",
+        "projectName": "StudyTasksTracker.Installer",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTasksTracker.Installer\\StudyTasksTracker.Installer.wixproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\HanDoan1256\\StudyTaskTracker\\StudyTasksTracker.Installer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {
+          "targetAlias": "native"
+        }
+      }
+    }
+  }
+}

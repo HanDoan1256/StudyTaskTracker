@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StudyTaskTracker.App"
+    "\\StudyTaskTracker.App",
+    "\\StudyTaskTracker.Core",
+    "\\StudyTaskTracker.Core\\Models",
+    "\\StudyTaskTracker.Core\\Repositories",
+    "\\StudyTaskTracker.Core\\Services",
+    "\\StudyTaskTracker.Storage"
   ],
   "PreviewInSolutionExplorer": false
 }

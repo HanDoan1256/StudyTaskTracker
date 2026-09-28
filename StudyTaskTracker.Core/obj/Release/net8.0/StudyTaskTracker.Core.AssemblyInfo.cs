@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudyTaskTracker.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89058f85fc963362160d43047f748a5c52f910dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9da9cc0e09fb57a8ef9694b14f443114f3783389")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudyTaskTracker.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudyTaskTracker.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

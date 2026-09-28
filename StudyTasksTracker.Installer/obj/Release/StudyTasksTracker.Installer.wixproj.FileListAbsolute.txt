@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\obj\Release\StudyTasksTracker.Installer.wixproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\bin\Release\en-US\StudyTasksTracker.Installer.msi
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\bin\Release\en-US\cab1.cab
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\bin\Release\en-US\StudyTasksTracker.Installer.wixpdb
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\obj\Release\en-US\cab1.cab
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\obj\Release\en-US\StudyTasksTracker.Installer.msi
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\obj\Release\en-US\StudyTasksTracker.Installer.wixpdb
+C:\Users\Administrator\source\repos\HanDoan1256\StudyTaskTracker\StudyTasksTracker.Installer\obj\Release\StudyTasksTracker.Installer.wixproj.BindTracking-en-US.txt
